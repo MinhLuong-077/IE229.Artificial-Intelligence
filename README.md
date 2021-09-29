@@ -38,7 +38,7 @@
 ## IMDB 
 1. 問題の説明
 * レビューが入力となって、その評価値(positive/negative)を出力するタスクとなります。
-* ![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCXMIfKCRBDjNZblWRJoyFGf-rQhfWWEY0w&usqp=CAU)
+![alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCXMIfKCRBDjNZblWRJoyFGf-rQhfWWEY0w&usqp=CAU)
 2. データセットの簡単な説明
 * ここでは、具体的にIMDb (Internet Movie Databases)という映画やドラマのレビューを集めたデータベースを用いて、感情分析 (sentiment analysis)の学習と評価をやってみましょう。IMDbは、レビューとその評価値(positive/negative)が集められたデータベースです。訓練データは25,000件、テストデータは25,000件から成ります。 
 3. データ前処理
